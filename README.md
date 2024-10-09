@@ -1,5 +1,4 @@
-# micro-ecommerce
-Learn how to build a Micro eCommerce Web App with Python and Serverless Postgres
+# Basic Setup for a project
 
 ## Required Software
 - [Python 3.10](https://www.python.org/downloads/) or newer
