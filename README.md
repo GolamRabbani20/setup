@@ -36,7 +36,7 @@ In rav.yaml, you'll see that rav run installs maps to:
 2. venv/bin/python -m pip install -r src/requirements.txt
 3. npm install
 
-# With all the configuration done, here are the main commands you'll run:
+### With all the configuration done, here are the main commands you'll run:
 
 rav run server
 rav run watch
