@@ -12,7 +12,7 @@ Setup for a Web-Project with Python, Serverless Postgres, Node for Tailwindcss
 ```bash
 mkdir dev
 cd dev
-git clone https://github.com/golamrabbani20/start
+git clone [https://github.com/golamrabbani20/start](https://github.com/GolamRabbani20/start.git)
 cd start
 ```
 
